@@ -1,0 +1,6 @@
+__pycache__
+test-reports
+*.pyc
+.pyc
+.direnv
+.envrs
